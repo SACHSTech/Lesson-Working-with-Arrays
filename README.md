@@ -10,6 +10,7 @@ For every technique here, we'll look at:
 2. **The design approach** — How arrays help us solve it  
 3. **The code** — A clearly written example program  
 
+Annotated solutions to these problems can be found [here](SOLUTIONS.md).
 
 ## 1. Accessing Elements
 
