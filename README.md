@@ -117,7 +117,7 @@ for (int i = 0; i < marks.length; i++) {
 System.out.println("Sum = " + sum);
 ```
 
-## 4b. Average
+## 4b. Computing Aggregate Values - Average
 
 ### Goal  
 Compute mean score from a list of numbers.
@@ -133,7 +133,7 @@ double avg = (double) sum / marks.length;
 System.out.println("Average = " + avg);
 ```
 
-## 4c. Minimum and Maximum
+## 4c. Computing Aggregate Values - Minimum and Maximum
 
 ### Goal  
 Find the smallest and largest elements.
