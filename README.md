@@ -10,8 +10,6 @@ For every technique here, we'll look at:
 2. **The design approach** — How arrays help us solve it  
 3. **The code** — A clearly written example program  
 
-Annotated solutions to these problems can be found [here](SOLUTIONS.md).
-
 ## 1. Accessing Elements
 
 ### Goal  
@@ -248,6 +246,8 @@ for (int i = marks.length - 1; i >= 0; i--) {
 # Practice Problems — Working With Arrays
 
 Complete the following practice problems. Starter code template files can be found in the `src/` folder of this repo.
+
+Annotated solutions to these problems can be found [here](SOLUTIONS.md).
 
 ## Problem 1 — Print All Values  
 
